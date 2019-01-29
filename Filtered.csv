@@ -1,0 +1,5 @@
+year,player,country,firstServe,ace,double,firstPointWon,secPointWon,fastServe,break,return,total,winner,error
+2009,Rafael Nadal,ESP,64%,4,4,66%,48%,196,44%,40%,173,50,41
+2009,Roger Federer,SUI,52%,11,6,73%,45%,204,32%,41%,174,71,64
+2017,Roger Federer,SUI,62%,20,3,76%,49%,207,30%,39%,150,73,57
+2017,Rafael Nadal,ESP,73%,4,3,63%,56%,200,24%,34%,139,35,28
